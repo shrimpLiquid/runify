@@ -6,8 +6,11 @@
       "js": [ "content.js" ],
       "matches": [ "*://*/*" ]
    } ],
-   "description": "",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsYyVhY07v4SAUhkQBYQAzE1sdzVvkIgq4b8w1fig5EbPRsU7o61zq49s5Ire/HYQ8JwdxiWoXarV9WA5jsZfUCNgpPeMWTI6uZ66WTX5Mish+b62Xs+YsckiCQ/Mg9iw9DNnyV8conRcdXMYVD+96r/yogp+OfAropHuCvsa+Y0Op3sn/yYD/ucQEZj6w+t6VBWIkOhiEMEZAml6d7Bl3Z/Dvqg9mutaT1SKdTzxRldOWUBxz+VWp01ha8LTUKEW1+x1gFbeAL5/Phg9wlptXP7veykMDeWMHy8Pp2W4lgwM1jXCWVE+qH8Mb+L6GmOxF4xyKW1K1G5YiohdDnGTJQIDAQAB",
+   "description": "Get runified!",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
    "manifest_version": 3,
    "name": "runify",
    "version": "1.0"
