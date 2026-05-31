@@ -1,4 +1,4 @@
-var default_replacements = {
+var default_reps = {
     "sh":"ᛋᚳ",
 	"th":"ᚦ",
 	"a":"ᚫ",
@@ -32,7 +32,7 @@ var default_replacements = {
   
   
   };
-const replacements = Object.entries(default_replacements);
+const replacements = Object.entries(default_reps);
 
 function buildRegexBatch(entries) {
   return new RegExp(
